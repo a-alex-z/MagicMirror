@@ -23,5 +23,5 @@ var translations = {
 	"ja" : "translations/ja.json", // Japanese
 	"pl" : "translations/pl.json", // Polish
 	"gr" : "translations/gr.json",  // Greek
-	"ru" : "translations/gr.json",  // Russian
+	"ru" : "translations/ru.json",  // Russian
 };
